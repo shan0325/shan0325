@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 </p>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plitche&show_icons=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shan0325&show_icons=true&theme=chartreuse-dark)
