@@ -24,6 +24,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/html-d14836?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
 </p>
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shan0325&show_icons=true&theme=chartreuse-dark)
